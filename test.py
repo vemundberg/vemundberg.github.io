@@ -1,1 +1,1 @@
-halla dette er en test          
+print("hello world")     
